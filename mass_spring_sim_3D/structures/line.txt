@@ -1,0 +1,13 @@
+gravity -80
+springDampeningConst -0.3
+viscousDampeningConst 1
+ballRadius 10
+
+creature
+
+massBall 100 100 20
+massBall 150 100 0
+
+spring 31 70.7 0 30 0 1
+
+createCreature

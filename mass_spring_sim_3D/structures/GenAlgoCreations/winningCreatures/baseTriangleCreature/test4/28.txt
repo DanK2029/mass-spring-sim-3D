@@ -1,0 +1,18 @@
+creature
+gravity -300.0
+springDampeningConst -0.3
+viscousDampeningConst 1.0
+floorFriction 0.4
+ballRadius 10.0
+fitness 1959.3046
+id 870
+massBall 100.0 10.0 0.0
+massBall 200.0 10.0 0.0
+massBall 150.0 96.6 4.2795486
+massBall 125.0 35.0 36.71124
+spring 31.0 100.0 0.015107192 -15.953436 0 1
+spring 31.0 100.0 -0.32110998 -0.5458331 1 2
+spring 31.0 100.0 0.071327485 16.008453 2 0
+spring 31.0 80.0 0.048533823 33.23052 3 2
+spring 31.0 80.0 0.0 20.0 3 1
+createCreature
